@@ -28,3 +28,7 @@ This repo is proof that:
 - And I'm committed to improving my game with every update.
 
 Long road ahead, but hey… I’m enjoying the grind 😎🔥
+
+---
+
+## ❗Bugs
