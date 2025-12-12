@@ -40,3 +40,26 @@ Long road ahead, but hey… I’m enjoying the grind 😎🔥
 
 ## ❗Bugs
 Not Found
+
+---
+
+🎨 Assets Credits
+
+Mystic Woods Asset Pack by GameEndeavor
+License: Free Version – Non-Commercial Use Only
+
+Allowed: modify
+
+Not allowed: redistribute / resell / commercial use
+Creator: https://twitter.com/GameEndeavor
+
+
+
+---
+
+🛠️ Engine Used
+
+This project is built using Godot Engine
+https://godotengine.org
+
+
