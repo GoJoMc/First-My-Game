@@ -31,4 +31,12 @@ Long road ahead, but hey… I’m enjoying the grind 😎🔥
 
 ---
 
+## ❓Whats New 
+- Map
+- Player MoveMent
+- Attack Animation
+
+---
+
 ## ❗Bugs
+Not Found
