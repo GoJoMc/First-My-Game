@@ -43,7 +43,7 @@ Not Found
 
 ---
 
-🎨 Assets Credits
+## 🎨 Assets Credits
 
 Mystic Woods Asset Pack by GameEndeavor
 License: Free Version – Non-Commercial Use Only
@@ -57,7 +57,7 @@ Creator: https://twitter.com/GameEndeavor
 
 ---
 
-🛠️ Engine Used
+## 🛠️ Engine Used
 
 This project is built using Godot Engine
 https://godotengine.org
